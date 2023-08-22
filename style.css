@@ -1,0 +1,30 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right,rgb(47, 255, 210),#0ef);
+}
+.content{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.q);
+  }
+  input, select, button {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
